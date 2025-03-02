@@ -1,7 +1,9 @@
-# PDF files
-td3.pdf
-td2.pdf
-
 # VS Code files
 .vscode/
 .vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+*.code-workspace
+
+# PDF files
+*.pdf
